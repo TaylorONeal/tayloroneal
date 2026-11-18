@@ -12,12 +12,14 @@ product management at Miami University.
 - [@grizzpm](https://www.youtube.com/@grizzpm) on YouTube
 - [@thinkermetrics](https://www.youtube.com/@thinkermetrics) and
   [thinkermetrics.com](https://thinkermetrics.com) for the analytics side
+- [purafieldstudio.com](https://www.purafieldstudio.com) for the apps I build at Purafield Studio
+- [cuecraft.app](https://cuecraft.app) for CueCraft, class planning for yoga teachers
 
 ### What I build in the open
 
 | Repo | What it is |
 |---|---|
-| [tandava](https://github.com/TaylorONeal/tandava) | Open-source studio management for yoga and movement studios. [Live demo](https://tandava-flame.vercel.app) |
+| [tandava](https://github.com/TaylorONeal/tandava) | Open-source studio management for yoga and movement studios. [Live demo](https://tandavastudio.com) |
 | [ai-yoga](https://github.com/TaylorONeal/ai-yoga) | Agent skills for yoga teachers: bios, class reconstruction, feedback, practice logs |
 | [ai-education](https://github.com/TaylorONeal/ai-education) | Teaching toolkit: quizzes, rubric feedback, course pages, exam balance |
 | [data-analysis](https://github.com/TaylorONeal/data-analysis) | Skills that stop AI inventing numbers and make every figure cite its row |
