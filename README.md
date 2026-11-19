@@ -4,7 +4,7 @@ I work at the intersection of product, analytics, and large-scale implementation
 mostly means translating between business intent and technical reality. Two decades of it
 now, split between consulting and product leadership.
 
-I also teach. Eight years as a university instructor, currently digital analytics and
+I also teach. Eight years as a university instructor, most recently in digital analytics and
 product management at Miami University.
 
 - [tayloroneal.com](https://www.tayloroneal.com) for consulting and how to reach me
